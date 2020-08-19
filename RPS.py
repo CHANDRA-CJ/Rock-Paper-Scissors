@@ -38,6 +38,3 @@ while True:
         print(" !!!!!!!!!!!  invalid input, please select between rock,paper or scissors  !!!!!!!!")
 
         print()
-
-
-        rteiahiutaerhuoihaoh
